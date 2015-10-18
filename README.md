@@ -6,6 +6,8 @@ PNGCrush-compressed.htm	- 292 kilobytes - JavaScript minified, then compressed w
 
 PNGCrush-no.minify-compressed.htm - 376 kilobytes - entire page compressed with deflate, no minify (81% compression)
 
+PNGCrush-minified.only.htm - 950 KB - only JavaScript minified (53% minification)
+
 # About
 
 Here we took the original 2,200 kilobyte bytecode file (C++ compiled with emscripten), minified the JavaScript (separated from HTML) and page to 990 KB, and then compressed to 290 KB.
