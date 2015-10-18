@@ -4,7 +4,7 @@ PNGCrush-uncompressed.htm - 2,100 kilobytes (2.04 megabytes) - the original HTML
 
 PNGCrush-compressed.htm	- 292 kilobytes - JavaScript minified, then compressed with deflate (85% compression) - Live demo: http://jsfiddle.net/j5pbbnuu/
 
-PNGCrush-no.minify-compressed.htm - 376 kilobytes - entire page compressed with deflate, no minify (81% compression)
+PNGCrush-no.minify-compressed.htm - 376 kilobytes - entire page compressed with deflate, no minify (81% compression) - Live demo: http://jsfiddle.net/d2akk704/
 
 PNGCrush-minified.only.htm - 950 KB - only JavaScript minified (53% minification)
 
